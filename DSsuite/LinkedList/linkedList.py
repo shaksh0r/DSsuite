@@ -61,6 +61,7 @@ class LinkedList:
                 if key == self.length - 1:
                     self.tail = node
                     return None
+                return None
             else:
                 i += 1
                 curr = curr.next
