@@ -1,11 +1,12 @@
+import psycopg2
 from fastapi import FastAPI
-from DSsuite.Redis.redis import redis_lifespan
 from DSsuite.api.linked_list_api import router as ll_router
 from DSsuite.api.stack_api import router as stack_router
 from DSsuite.api.queue_api import router as queue_router
 from DSsuite.api.bst_api import router as bst_router
+from DSsuite.Database.db import init_db
 
-app = FastAPI(lifespan=redis_lifespan)
+app = FastAPI()
 
 app.include_router(ll_router, prefix="/linkedlist", tags=["linkedlist"])
 app.include_router(stack_router, prefix="/stack", tags=["stack"])

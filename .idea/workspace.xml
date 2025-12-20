@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f396d114-f646-4cde-9c5b-d21fcc741530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSsuite/Redis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSsuite/Redis/redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/LinkedList/linkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/LinkedList/linkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/api/linked_list_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/api/linked_list_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -46,7 +45,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mvp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shakshor/Projects/DSsuite-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/DSsuite/Node" />
     </key>
   </component>
@@ -83,7 +84,11 @@
       <workItem from="1764502262157" duration="1648000" />
       <workItem from="1764525249893" duration="710000" />
       <workItem from="1764576264358" duration="3124000" />
-      <workItem from="1764919384790" duration="1296000" />
+      <workItem from="1764919384790" duration="5821000" />
+      <workItem from="1766213036005" duration="461000" />
+      <workItem from="1766239964480" duration="10000" />
+      <workItem from="1766240585132" duration="514000" />
+      <workItem from="1766252840362" duration="2970000" />
     </task>
     <servers />
   </component>

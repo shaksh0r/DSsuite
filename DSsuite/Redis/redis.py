@@ -1,6 +1,7 @@
 from contextlib import asynccontextmanager
 from fastapi import Request
 from redis.asyncio import Redis
+from DSsuite.Database.db import init_db
 
 async def create_redis_client():
     return Redis.from_url("redis://localhost:6379",
@@ -19,6 +20,7 @@ async def get_redis(request:Request):
 
 @asynccontextmanager
 async def redis_lifespan(app):
+    init_db()
     app.state.redis  = await create_redis_client()
     try:
         yield
