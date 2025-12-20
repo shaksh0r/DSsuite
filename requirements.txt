@@ -1,0 +1,5 @@
+fastapi~=0.122.0
+pydantic~=2.12.5
+uvicorn[standard]
+redis~=7.1.0
+psycopg2-binary~=2.9.11
