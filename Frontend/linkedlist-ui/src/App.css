@@ -1,0 +1,95 @@
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+  font-family: system-ui, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.controls div {
+  display: flex;
+  gap: 0.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #38bdf8;
+  color: #020617;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0ea5e9;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.node-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.node {
+  background: #1e293b;
+  border: 2px solid #38bdf8;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  min-width: 70px;
+  text-align: center;
+}
+
+.index {
+  font-size: 0.7rem;
+  color: #94a3b8;
+}
+
+.value {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.arrow {
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+.null {
+  margin-left: 1rem;
+  color: #f87171;
+  font-weight: bold;
+}
+
+.empty {
+  opacity: 0.6;
+}

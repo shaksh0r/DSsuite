@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f396d114-f646-4cde-9c5b-d21fcc741530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSsuite/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,12 @@
       <workItem from="1766213036005" duration="461000" />
       <workItem from="1766239964480" duration="10000" />
       <workItem from="1766240585132" duration="514000" />
-      <workItem from="1766252840362" duration="2970000" />
+      <workItem from="1766252840362" duration="4297000" />
+      <workItem from="1766428381613" duration="14000" />
+      <workItem from="1766428477876" duration="132000" />
+      <workItem from="1766429452640" duration="487000" />
+      <workItem from="1766430347295" duration="1505000" />
+      <workItem from="1766470171468" duration="712000" />
     </task>
     <servers />
   </component>
