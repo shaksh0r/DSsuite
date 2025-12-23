@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f396d114-f646-4cde-9c5b-d21fcc741530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSsuite/Redis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSsuite/Redis/redis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/LinkedList/linkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/LinkedList/linkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/api/linked_list_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/api/linked_list_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSsuite/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSsuite/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f396d114-f646-4cde-9c5b-d21fcc741530" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
